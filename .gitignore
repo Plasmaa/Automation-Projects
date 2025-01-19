@@ -4,3 +4,5 @@ Novice/
 **/*.txt
 **/*.mp4
 **/*.mkv
+db.sqlite3
+__pycache__/
